@@ -22,3 +22,17 @@ Commit 001 — Enterprise Shell™
 - KPI cards
 - Request Pilot CTA
 - responsive layout
+
+## Commit 001-B System Upgrade
+
+The CTO / Engineering Agent™ now governs an internal engineering system, not only documentation.
+
+Added system folders:
+- .github/workflows/
+- components/
+- lib/
+- data/
+- public/
+- monitoros/
+
+This creates the foundation for planning, coding, review, deployment, and continuous improvement.
